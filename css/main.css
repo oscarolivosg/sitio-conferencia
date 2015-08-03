@@ -1,9 +1,12 @@
-/* Global
-------------------------------------------------------------------*/
-html, body, form, h1, h2, h3, h4, h5, h6, p, pre, blockquote, ul, ol, dl {
-  margin:0;
-  padding:0;
-}
-h1 {
-    text-decoration: underline;
-}
+body, * {text-align:center;font-family: 'Ubuntu', sans-serif;font-size:14px;color:#666;}
+body {background:#f4f4f4;padding-bottom:70px;}
+html, body, #page, .page {height:100%;}
+p {margin-bottom:10px;text-align:center;}
+div {width:50%;float:left;}
+h1 {font-size: 70px;
+border-radius: 10px;
+background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+margin: 30px 10px;
+padding: 20px 0px;
+line-height: 70px;
+color: #1B82A4;}
